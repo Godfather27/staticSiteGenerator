@@ -9,7 +9,7 @@
 title: Seb's ultimate Blog
 email: fhs37229@fh-salzburg.ac.at
 description: > # this is Sebastian Huber's blog for Universtity of Applied Science's 
-course "Content Management Systems"
+course "Content Management Systems".:
 baseurl: "/staticSiteGenerator" # the subpath of your site, e.g. /blog
 url: "http://godfather27.github.io/" # the base hostname & protocol for your site
 twitter_username: SebCHuber
