@@ -8,5 +8,3 @@ categories: some category
 # hello world
 
 This is my first post on my **static site generator** page
-
-[hello](http://www.google.at)
